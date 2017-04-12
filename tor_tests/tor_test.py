@@ -23,7 +23,7 @@ reset_ip()
 print requests.get("http://icanhazip.com").text
 
 
-
+# To get my IP address - https://icanhazip.com/
 # 81.57.131.168 - meu IP
 # 51.15.63.229
 # 119.81.135.2
